@@ -1,0 +1,222 @@
+{
+  "allValues": [
+    {
+      "list": [
+        {
+          "symbol": "BTCUSDT",
+          "price": 68084.5,
+          "time": 1710758298310
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68064.4,
+          "time": 1710758304514
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68047.5,
+          "time": 1710758306496
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68045,
+          "time": 1710758312599
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68041.5,
+          "time": 1710758318381
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68041.5,
+          "time": 1710758324506
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68046.8,
+          "time": 1710758328225
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68041.4,
+          "time": 1710758333452
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68041.5,
+          "time": 1710758338402
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68045.7,
+          "time": 1710758344446
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68045.8,
+          "time": 1710758348661
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68028.3,
+          "time": 1710758354155
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68028.2,
+          "time": 1710758358640
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68028.2,
+          "time": 1710758362121
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68028.2,
+          "time": 1710758368240
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68028.2,
+          "time": 1710758374276
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68060.3,
+          "time": 1710758378653
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68141,
+          "time": 1710758416929
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68084.1,
+          "time": 1710758478934
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68040.5,
+          "time": 1710758532752
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68021.6,
+          "time": 1710758598497
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68003.4,
+          "time": 1710758657119
+        }
+      ],
+      "id": "lastValues"
+    }
+  ],
+  "statistic": [
+    {
+      "id": "5m",
+      "allValues": [
+        {
+          "symbol": "BTCUSDT",
+          "price": 67803.7,
+          "time": 1710757469472
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 67964.9,
+          "time": 1710757557223
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 67866,
+          "time": 1710757705312
+        },
+        {
+          "symbol": "BTCUSDT",
+          "price": 68109.3,
+          "time": 1710757975962
+        }
+      ],
+      "lastResult": {
+        "min": {
+          "symbol": "BTCUSDT",
+          "price": 67866,
+          "time": 1710757705312
+        },
+        "max": {
+          "symbol": "BTCUSDT",
+          "price": 68109.3,
+          "time": 1710757975962
+        }
+      }
+    },
+    {
+      "id": "15m",
+      "allValues": [],
+      "lastResult": {
+        "min": {
+          "symbol": "BTCUSDT",
+          "price": 67784.6,
+          "time": 1710756856960
+        },
+        "max": {
+          "symbol": "BTCUSDT",
+          "price": 68017.3,
+          "time": 1710756136280
+        }
+      }
+    },
+    {
+      "id": "1h",
+      "allValues": [],
+      "lastResult": {
+        "min": {
+          "symbol": "BTCUSDT",
+          "price": 67554.2,
+          "time": 1710750641366
+        },
+        "max": {
+          "symbol": "BTCUSDT",
+          "price": 68285.9,
+          "time": 1710753953417
+        }
+      }
+    },
+    {
+      "id": "4h",
+      "allValues": [],
+      "lastResult": {
+        "min": {
+          "symbol": "BTCUSDT",
+          "price": 65095.7,
+          "time": 1710660989576
+        },
+        "max": {
+          "symbol": "BTCUSDT",
+          "price": 66862.1,
+          "time": 1710667104584
+        }
+      }
+    },
+    {
+      "id": "24h",
+      "allValues": [],
+      "lastResult": {
+        "min": {
+          "symbol": "BTCUSDT",
+          "price": 65095.7,
+          "time": 1710660989576
+        },
+        "max": {
+          "symbol": "BTCUSDT",
+          "price": 66862.1,
+          "time": 1710667104584
+        }
+      }
+    }
+  ]
+}

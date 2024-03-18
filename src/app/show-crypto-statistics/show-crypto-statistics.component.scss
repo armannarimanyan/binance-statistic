@@ -1,0 +1,13 @@
+.statistic_container {
+  display: flex;
+  &--item {
+    border: 1px solid gray;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    & span {
+      padding: 5px;
+    }
+  }
+}
